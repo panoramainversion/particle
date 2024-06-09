@@ -7,7 +7,7 @@
  |(θ; θ; nθ) |  Electromagnetic force| ⚫ |
  |(sinθ, cosθ, nθ)|  gravitational force| 🟩|
 
-|**○ ∞ ** |2D|3D|
+|**○ ∞** |2D|3D|
 | :---: |:---:|  :---:| 
 |boundedness| $x^{2}+y^{2}=1$| (sinθ, cosθ, θ)| 
 |infinity| $\sin^{2}\left(x\right)+\cos^{2}\left(y\right)=1$|(θ; θ; θ) |
