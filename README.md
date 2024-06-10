@@ -2,8 +2,8 @@
 
  | code | id | color |
  | :--- |:---|  :---|  
- | (θ; θ; θ) |  Spin | ⚫ |
- |(sinθ, cosθ, θ)| magnetic moment|🟩 |
+ | (θ; θ; θ) | magnetic moment | ⚫ |
+ |(sinθ, cosθ, θ)|  Spin |🟩 |
  |(θ; θ; nθ) |  Electromagnetic force| ⚫ |
  |(sinθ, cosθ, nθ)|  gravitational force| 🟩|  
  
