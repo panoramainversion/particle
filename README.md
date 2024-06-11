@@ -1,4 +1,6 @@
-### particle physics
+### particle physics  
+  
+  **$\frac{R^{2}}{Q}=c$**
 
  | code | id | color |
  | :--- |:---|  :---|  
