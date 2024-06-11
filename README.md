@@ -5,8 +5,8 @@
  | code | id | color |
  | :--- |:---|  :---|  
  | (θ; θ; θ) | magnetic moment | ⚫ |
- |(sinθ, cosθ, θ)|  Spin |🟩 |
- |(θ; θ; nθ) |  Electromagnetic force| ⚫ |
+ |(sinθ, cosθ, θ)|  spin |🟩 |
+ |(θ; θ; nθ) |  electromagnetic force| ⚫ |
  |(sinθ, cosθ, nθ)|  gravitational force| 🟩|  
  
  https://www.geogebra.org/3d/ffrjf8cs  
