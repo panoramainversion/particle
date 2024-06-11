@@ -7,7 +7,8 @@
  |(θ; θ; nθ) |  Electromagnetic force| ⚫ |
  |(sinθ, cosθ, nθ)|  gravitational force| 🟩|  
  
- https://www.geogebra.org/3d/ffrjf8cs 
+ https://www.geogebra.org/3d/ffrjf8cs  
+ https://www.geogebra.org/3d/ztvz5pus  
 
 |**○ ∞** |2D|3D|id|
 | :---: |:---:|  :---:|   :---:| 
